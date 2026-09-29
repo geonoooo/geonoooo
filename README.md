@@ -7,6 +7,11 @@ React·Next.js로 제품을 만들고, 개발하면서 겪은 문제를 측정�
 ### 📝 최근 글
 
 <!-- BLOG-POST-LIST:START -->
+- [props가 바뀌었는데 useState는 왜 그대로일까?](https://www.geonoooo.dev/posts/prop-changed-but-state-didnt)
+- [액세스 토큰을 메모리에 저장하면 로그인이 풀리잖아](https://www.geonoooo.dev/posts/access-token-in-memory-and-refresh)
+- [Next.js View Transition을 적용했다가 걷어낸 이유](https://www.geonoooo.dev/posts/page-transition-without-view-transitions)
+- [작은 React 프로젝트에도 FSD가 필요할까?](https://www.geonoooo.dev/posts/folder-names-dont-enforce-cohesion)
+- [다크모드 깜빡임, useSyncExternalStore가 정말 해결했을까?](https://www.geonoooo.dev/posts/theme-flash-and-usesyncexternalstore)
 <!-- BLOG-POST-LIST:END -->
 
 ### 💼 경력
