@@ -28,7 +28,7 @@
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=alchogh)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=geonoooo)](https://git.io/streak-stats)
 
 
 
